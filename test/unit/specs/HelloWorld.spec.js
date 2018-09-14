@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import HelloWorld from '@/components/HelloWorld'
+import ButtonMessage from '@/components/ButtonMessage'
 
 describe('HelloWorld.vue', () => {
   it('should render correct contents', () => {
