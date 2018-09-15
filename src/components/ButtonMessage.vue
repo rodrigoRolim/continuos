@@ -20,4 +20,10 @@ export default {
   }
 }
 </script>
-<style></style>
+<style>
+button {
+  background-color:aqua;
+  color: white;
+  padding: 12px 8px;
+}
+</style>
