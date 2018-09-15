@@ -9,7 +9,7 @@ install:
 - npm install
 - npm run build
 script:
-- nohup npm run start &
+- nohup npm run dev &
 - sleep 3
 - npm run test
 - npm run lint
