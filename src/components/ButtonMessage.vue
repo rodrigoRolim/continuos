@@ -1,7 +1,7 @@
 <template>
 <div>
  <button @click="showMessage">Click me!</button>
- <p id="message"></p>
+ <p id="message">{{msg}}</p>
 </div>
 
 </template>
@@ -15,7 +15,6 @@ export default {
   methods: {
     showMessage () {
       this.msg = 'welcome to my course of continuos integration'
-      document.querySelector('#message').innerHTML = this.msg
     }
   }
 }
