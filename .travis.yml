@@ -4,14 +4,12 @@ node_js:
 cache:
   directories:
   - "node_modules"
-
 install:
 - "npm install"
 - "npm run build"
 script:
 - nohup npm run dev &
-- sleep 3
-- npm run test
+- npm run unit
 - npm run lint
 deploy:
   provider: heroku
