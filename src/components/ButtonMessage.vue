@@ -26,5 +26,6 @@ button {
   padding: 12px 8px;
   border-radius: 4px;
   border: 1px solid transparent;
+  font-weight: 500;
 }
 </style>
