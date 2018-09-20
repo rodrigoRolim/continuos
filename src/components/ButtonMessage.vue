@@ -1,6 +1,6 @@
 <template>
 <div>
- <button @click="showMessage">Click me!</button>
+ <button @click="showMessage">Fock me!</button>
  <p id="message">{{msg}}</p>
 </div>
 
