@@ -11,8 +11,8 @@ install:
 # - nohup npm run dev &
 # - npm run unit
 # - npm run lint
-deploy:
-  provider: heroku
-  api_key: dff45af8-4ec0-4cfd-b506-ffe6e7cc91c5
-    secure: API_KEY
-  app: dry-inlet-76991
+# deploy:
+#   provider: heroku
+#   api_key: dff45af8-4ec0-4cfd-b506-ffe6e7cc91c5
+#     secure: API_KEY
+#   app: dry-inlet-76991
