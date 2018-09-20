@@ -21,8 +21,9 @@ export default {
 </script>
 <style>
 button {
-  background-color:aqua;
+  background-color: rgb(0, 110, 255);
   color: white;
   padding: 12px 8px;
+  border-radius: 4px
 }
 </style>
