@@ -24,6 +24,7 @@ button {
   background-color: rgb(0, 110, 255);
   color: white;
   padding: 12px 8px;
-  border-radius: 4px
+  border-radius: 4px;
+  border: 1px solid transparent;
 }
 </style>
