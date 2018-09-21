@@ -28,4 +28,8 @@ button {
   border: 1px solid transparent;
   font-weight: 500;
 }
+#message {
+  color: blue;
+  font-size: 1.5rem;
+}
 </style>
