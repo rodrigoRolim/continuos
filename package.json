@@ -9,7 +9,8 @@
     "start": "node server.js",
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
     "test": "npm run unit",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "postinstall": "webpack"
   },
   "dependencies": {
     "express": "^4.16.3",
