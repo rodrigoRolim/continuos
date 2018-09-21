@@ -1,6 +1,6 @@
 <template>
 <div>
- <button @click="showMessage">click me now now!</button>
+ <button @click="showMessage">click me!</button>
  <p id="message">{{msg}}</p>
 </div>
 
@@ -21,7 +21,7 @@ export default {
 </script>
 <style>
 button {
-  background-color: rgb(0, 255, 0);
+  background-color: rgb(83, 20, 165);
   color: white;
   padding: 12px 19px;
   border-radius: 4px;
