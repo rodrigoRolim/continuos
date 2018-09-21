@@ -23,7 +23,7 @@ export default {
 button {
   background-color: rgb(0, 255, 0);
   color: white;
-  padding: 12px 8px;
+  padding: 12px 19px;
   border-radius: 4px;
   border: 1px solid transparent;
   font-weight: 500;
