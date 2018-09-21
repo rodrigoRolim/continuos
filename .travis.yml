@@ -17,7 +17,7 @@ deploy:
     - "heroku"
   api_key: 
     secure: 
-      - "c5b90f6c-5651-4537-8a10-9a111dd0930c"
+      - API_KEY
   app: 
     - "continuos"
   on: 
