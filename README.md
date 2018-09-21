@@ -1,3 +1,5 @@
+One Basic automated pipeline deployment with travis, heroku and node app.
+=====
 # deploy
 
 > A Vue.js project
