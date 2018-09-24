@@ -12,6 +12,6 @@ describe('ButtonMessage.vue', () => {
   button.dispatchEvent(clickEvent)
   vm._watcher.run()
   expect(vm.$el.querySelector('#message').textContent).to
-  .equal('welcome to my course of continuos integration')
+  .equal('welcome to the automated deployment pipeline')
  })
 })
