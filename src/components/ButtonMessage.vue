@@ -14,7 +14,7 @@ export default {
   },
   methods: {
     showMessage () {
-      this.msg = 'welcome to my course of continuos integration'
+      this.msg = 'welcome to the automated deployment pipeline'
     }
   }
 }
